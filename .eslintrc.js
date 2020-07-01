@@ -21,5 +21,6 @@ module.exports = {
     'react/prefer-stateless-function': 'off',
     'no-console': ['error', { allow: ['tron'] }],
     'no-param-reassign': 'off',
+    'react/prop-types': 'off',
   },
 };
