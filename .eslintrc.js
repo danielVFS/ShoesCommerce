@@ -20,5 +20,6 @@ module.exports = {
     'jsx-a11y/control-has-associated-label': 'off',
     'react/prefer-stateless-function': 'off',
     'no-console': ['error', { allow: ['tron'] }],
+    'no-param-reassign': 'off',
   },
 };
